@@ -1,0 +1,40 @@
+body{
+
+	background: #D7D0B7;
+
+}
+
+img{
+	margin-top: 0px;
+	margin-right: 0px;
+	width: 1330px;
+	height: 330px;
+
+}
+
+h1{
+	font-style: inherit;
+	font-size: 55px;
+	text-align: center;
+	letter-spacing: 2;
+	}
+p{
+	font-style: normal;
+	font-size: 25px;
+	text-align: justify;
+	letter-spacing: 1;
+	margin-left:80px; 
+	margin-right:80px;
+}
+
+h2{
+	margin-left:80px;
+	font-style: inherit;
+	font-size: 38px;
+	text-align: justify;
+	letter-spacing: 2;
+}
+
+ul{
+	text-align: right;
+}
